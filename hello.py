@@ -1,5 +1,2 @@
-print("Helloo...!!!!")
-print("Hello Truptiii...!!!!!")
-print("hello neha")
-print("2nd change")
-print("1st change")
+print("Helloo worlddddd..!!!!")
+
